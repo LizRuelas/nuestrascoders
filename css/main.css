@@ -1,0 +1,36 @@
+span {
+	color: white;
+	font-size: 18px;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	padding:5px;
+}
+img {
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+.line {
+	border:2px solid black;
+	width: 50px;
+	margin-bottom: 20px;
+}
+.contenedor {
+	width: 50%;
+	margin:0 auto;
+}
+.foto {
+	display: inline-block;
+	position: relative;
+	width: 211px;
+	height: 211px;
+	margin-right: 15px;
+	background: rgba(0,0,0, 0.8);	
+}
+.overlay {
+	width: 211px;
+	height: 211px;
+	opacity:0.5;
+}
+
+
